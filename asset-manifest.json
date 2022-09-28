@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Hotel_Booking/static/css/main.8415a616.css",
-    "main.js": "/Hotel_Booking/static/js/main.0b0b4357.js",
-    "static/js/787.fe8d48e1.chunk.js": "/Hotel_Booking/static/js/787.fe8d48e1.chunk.js",
-    "static/media/Resort.jpg": "/Hotel_Booking/static/media/Resort.17a161c12b29fd46e189.jpg",
-    "static/media/Suiet.jpg": "/Hotel_Booking/static/media/Suiet.6c9320c5392e280938af.jpg",
-    "static/media/Casino.jpg": "/Hotel_Booking/static/media/Casino.16c414281d748bd1e4a5.jpg",
-    "static/media/Rated.jpg": "/Hotel_Booking/static/media/Rated.ce4f92a853eef8c30f8b.jpg",
-    "static/media/Hotel3.jpg": "/Hotel_Booking/static/media/Hotel3.38d4a7730b0fd53a0efe.jpg",
-    "static/media/Hawassa.png": "/Hotel_Booking/static/media/Hawassa.89dec3120cd1406de277.png",
-    "static/media/Adiss.jpg": "/Hotel_Booking/static/media/Adiss.796ad79f838a0f90d4f4.jpg",
-    "static/media/Five.jpg": "/Hotel_Booking/static/media/Five.5c526b3f8bad5a83bcfe.jpg",
-    "static/media/logolb.png": "/Hotel_Booking/static/media/logolb.40aee187d573e446d8d4.png",
-    "static/media/Adama.jfif": "/Hotel_Booking/static/media/Adama.5811ef45e5fe8fb73f0f.jfif",
-    "static/media/Bahirdar.jfif": "/Hotel_Booking/static/media/Bahirdar.f469523c68a259e9e813.jfif",
-    "index.html": "/Hotel_Booking/index.html",
-    "main.8415a616.css.map": "/Hotel_Booking/static/css/main.8415a616.css.map",
-    "main.0b0b4357.js.map": "/Hotel_Booking/static/js/main.0b0b4357.js.map",
-    "787.fe8d48e1.chunk.js.map": "/Hotel_Booking/static/js/787.fe8d48e1.chunk.js.map"
+    "main.css": "/static/css/main.8415a616.css",
+    "main.js": "/static/js/main.f67ef5fc.js",
+    "static/js/787.fe8d48e1.chunk.js": "/static/js/787.fe8d48e1.chunk.js",
+    "static/media/Resort.jpg": "/static/media/Resort.17a161c12b29fd46e189.jpg",
+    "static/media/Suiet.jpg": "/static/media/Suiet.6c9320c5392e280938af.jpg",
+    "static/media/Casino.jpg": "/static/media/Casino.16c414281d748bd1e4a5.jpg",
+    "static/media/Rated.jpg": "/static/media/Rated.ce4f92a853eef8c30f8b.jpg",
+    "static/media/Hotel3.jpg": "/static/media/Hotel3.38d4a7730b0fd53a0efe.jpg",
+    "static/media/Hawassa.png": "/static/media/Hawassa.89dec3120cd1406de277.png",
+    "static/media/Adiss.jpg": "/static/media/Adiss.796ad79f838a0f90d4f4.jpg",
+    "static/media/Five.jpg": "/static/media/Five.5c526b3f8bad5a83bcfe.jpg",
+    "static/media/logolb.png": "/static/media/logolb.40aee187d573e446d8d4.png",
+    "static/media/Adama.jfif": "/static/media/Adama.5811ef45e5fe8fb73f0f.jfif",
+    "static/media/Bahirdar.jfif": "/static/media/Bahirdar.f469523c68a259e9e813.jfif",
+    "index.html": "/index.html",
+    "main.8415a616.css.map": "/static/css/main.8415a616.css.map",
+    "main.f67ef5fc.js.map": "/static/js/main.f67ef5fc.js.map",
+    "787.fe8d48e1.chunk.js.map": "/static/js/787.fe8d48e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8415a616.css",
-    "static/js/main.0b0b4357.js"
+    "static/js/main.f67ef5fc.js"
   ]
 }
