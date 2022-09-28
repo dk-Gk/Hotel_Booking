@@ -1,5 +1,5 @@
 import React from 'react'
-import { useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import styled from 'styled-components'
 
 const Container = styled.div`
@@ -51,7 +51,7 @@ padding: 10px;
 font-weight: bold;
 cursor: pointer;
 `
-const Link = styled.span`
+const L = styled.span`
 cursor: pointer;
 background-color:#0e8557e5;
 color: white;
@@ -59,12 +59,6 @@ font-weight: bold;
 `
 
 export default function Login() {
-
-    const navigate = useNavigate()
-
-    const handleLink = () => {
-        navigate('/register')
-    }
     return (
         <Container>
             <Wrapper>
@@ -74,7 +68,7 @@ export default function Login() {
                     <Input type='password' placeholder='Password' />
                     <Button>Sign in</Button>
                 </Form>
-                <SubTitle>You don't have an account? <Link onClick={handleLink}>Register</Link></SubTitle>
+                <SubTitle>You don't have an account? <L><Link to='/register' >Register</Link></L></SubTitle>
             </Wrapper>
         </Container>
     )
